@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Patricia-IA)
 
 # Sobre mim
-Atualmente, estou aprimorando minhas habilidades em JavaScript,  Python, Git, Git GitHub, AWS, Cloud e SQL.
+Atualmente, estou aprimorando minhas habilidades em JavaScript,  Python, Git, GitHub, AWS, Cloud e SQL.
 
 Sou estudante do curso de Inteligência Artificial.
 
